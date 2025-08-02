@@ -6,7 +6,8 @@
       "use": "@vercel/python",
       "config": {
         "maxLambdaSize": "50mb",
-        "maxDuration": 30
+        "maxDuration": 30,
+        "pythonPath": "python3.11"
       }
     }
   ],
