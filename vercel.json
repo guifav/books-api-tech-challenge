@@ -2,31 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "app.py",
-      "use": "@vercel/python",
-      "config": {
-        "maxLambdaSize": "50mb",
-        "maxDuration": 30,
-        "pythonPath": "python3.11",
-        "pipInstallArgs": "-r requirements-vercel.txt"
-      }
+      "src": "index.py",
+      "use": "@vercel/python"
     }
   ],
   "routes": [
     {
-      "src": "/api/(.*)",
-      "dest": "app.py"
-    },
-    {
       "src": "/(.*)",
-      "dest": "app.py"
+      "dest": "index.py"
     }
-  ],
-  "env": {
-    "FLASK_ENV": "production",
-    "FLASK_DEBUG": "false",
-    "API_HOST": "0.0.0.0",
-    "PORT": "5005",
-    "PYTHONPATH": "/var/task"
-  }
+  ]
 }
