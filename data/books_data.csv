@@ -1,0 +1,1001 @@
+id,title,price,rating,availability,category,image_url,book_url
+1,A Light in the Attic,51.77,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg,https://books.toscrape.com/catalogue/book_980/index.html
+2,Tipping the Velvet,53.74,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg,https://books.toscrape.com/catalogue/book_981/index.html
+3,Soumission,50.1,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/3e/ef/3eef99c9d9adef34639f510662022830.jpg,https://books.toscrape.com/catalogue/book_982/index.html
+4,Sharp Objects,47.82,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/32/51/3251cf3a3412f53f339e42cac2134093.jpg,https://books.toscrape.com/catalogue/book_983/index.html
+5,Sapiens: A Brief History of Humankind,54.23,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/be/a5/bea5697f2534a2f86a3ef27b5a8c12a6.jpg,https://books.toscrape.com/catalogue/book_984/index.html
+6,The Requiem Red,22.65,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/68/33/68339b4c9bc034267e1da611ab3b34f8.jpg,https://books.toscrape.com/catalogue/book_985/index.html
+7,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/92/27/92274a95b7c251fea59a2b8a78275ab4.jpg,https://books.toscrape.com/catalogue/book_986/index.html
+8,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/3d/54/3d54940e57e662c4dd1f3ff00c78cc64.jpg,https://books.toscrape.com/catalogue/book_987/index.html
+9,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/66/88/66883b91f6804b2323c8369331cb7dd1.jpg,https://books.toscrape.com/catalogue/book_988/index.html
+10,The Black Maria,52.15,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/58/46/5846057e28022268153beff6d352b06c.jpg,https://books.toscrape.com/catalogue/book_989/index.html
+11,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/be/f4/bef44da28c98f905a3ebec0b87be8530.jpg,https://books.toscrape.com/catalogue/book_990/index.html
+12,Shakespeare's Sonnets,20.66,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/10/48/1048f63d3b5061cd2f424d20b3f9b666.jpg,https://books.toscrape.com/catalogue/book_991/index.html
+13,Set Me Free,17.46,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/5b/88/5b88c52633f53cacf162c15f4f823153.jpg,https://books.toscrape.com/catalogue/book_992/index.html
+14,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/94/b1/94b1b8b244bce9677c2f29ccc890d4d2.jpg,https://books.toscrape.com/catalogue/book_993/index.html
+15,Rip it Up and Start Again,35.02,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/81/c4/81c4a973364e17d01f217e1188253d5e.jpg,https://books.toscrape.com/catalogue/book_994/index.html
+16,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/54/60/54607fe8945897cdcced0044103b10b6.jpg,https://books.toscrape.com/catalogue/book_995/index.html
+17,Olio,23.88,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/55/33/553310a7162dfbc2c6d19a84da0df9e1.jpg,https://books.toscrape.com/catalogue/book_996/index.html
+18,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/09/a3/09a3aef48557576e1a85ba7efea8ecb7.jpg,https://books.toscrape.com/catalogue/book_997/index.html
+19,Libertarianism for Beginners,51.33,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/0b/bc/0bbcd0a6f4bcd81ccb1049a52736406e.jpg,https://books.toscrape.com/catalogue/book_998/index.html
+20,It's Only the Himalayas,45.17,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/27/a5/27a53d0bb95bdd88288eaf66c9230d7e.jpg,https://books.toscrape.com/catalogue/book_999/index.html
+21,In Her Wake,12.84,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_960/index.html
+22,How Music Works,37.32,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_961/index.html
+23,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",30.52,3,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_962/index.html
+24,Chase Me (Paris Nights #2),25.27,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_963/index.html
+25,Black Dust,34.53,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_964/index.html
+26,Birdsong: A Story in Pictures,54.64,3,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_965/index.html
+27,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,22.5,3,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_966/index.html
+28,Aladdin and His Wonderful Lamp,53.13,3,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_967/index.html
+29,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,40.3,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_968/index.html
+30,Wall and Piece,44.18,4,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_969/index.html
+31,The Four Agreements: A Practical Guide to Personal Freedom,17.66,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_970/index.html
+32,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,31.05,3,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_971/index.html
+33,The Elephant Tree,23.82,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_972/index.html
+34,The Bear and the Piano,36.89,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_973/index.html
+35,Sophie's World,15.94,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_974/index.html
+36,Penny Maybe,33.29,3,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_975/index.html
+37,Maude (1883-1993):She Grew Up with the country,18.02,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_976/index.html
+38,"In a Dark, Dark Wood",19.63,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_977/index.html
+39,Behind Closed Doors,52.22,4,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_978/index.html
+40,You can't bury them all: Poems,33.63,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_979/index.html
+41,Slow States of Collapse: Poems,57.31,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_940/index.html
+42,Reasons to Stay Alive,26.41,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_941/index.html
+43,Private Paris (Private #10),47.61,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_942/index.html
+44,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,23.11,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_943/index.html
+45,Without Borders (Wanderlove #1),45.07,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_944/index.html
+46,When We Collided,31.77,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_945/index.html
+47,"We Love You, Charlie Freeman",50.27,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_946/index.html
+48,Untitled Collection: Sabbath Poems 2014,14.27,4,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_947/index.html
+49,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",44.18,4,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_948/index.html
+50,Unicorn Tracks,18.78,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_949/index.html
+51,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",25.52,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_950/index.html
+52,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),16.28,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_951/index.html
+53,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,31.12,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_952/index.html
+54,This One Summer,19.49,4,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_953/index.html
+55,Thirst,17.27,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_954/index.html
+56,The Torch Is Passed: A Harding Family Story,19.09,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_955/index.html
+57,The Secret of Dreadwillow Carse,56.13,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_956/index.html
+58,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",56.41,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_957/index.html
+59,The Past Never Ends,56.5,4,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_958/index.html
+60,The Natural History of Us (The Fine Art of Pretending #2),45.22,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_959/index.html
+61,The Nameless City (The Nameless City #1),38.16,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_920/index.html
+62,The Murder That Never Was (Forensic Instincts #5),54.11,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_921/index.html
+63,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,42.96,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_922/index.html
+64,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",23.89,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_923/index.html
+65,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,16.77,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_924/index.html
+66,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",20.59,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_925/index.html
+67,The Gutsy Girl: Escapades for Your Life of Epic Adventure,37.13,1,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_926/index.html
+68,The Electric Pencil: Drawings from Inside State Hospital No. 3,56.06,1,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_927/index.html
+69,The Death of Humanity: and the Case for Life,58.11,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_928/index.html
+70,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",49.05,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_929/index.html
+71,The Art Forger,40.76,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_930/index.html
+72,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,19.73,1,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_931/index.html
+73,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,32.24,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_932/index.html
+74,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,41.83,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_933/index.html
+75,Soul Reader,39.58,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_934/index.html
+76,Security,39.25,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_935/index.html
+77,"Saga, Volume 6 (Saga (Collected Editions) #6)",25.02,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_936/index.html
+78,"Saga, Volume 5 (Saga (Collected Editions) #5)",51.04,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_937/index.html
+79,Reskilling America: Learning to Labor in the Twenty-First Century,19.83,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_938/index.html
+80,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",50.4,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_939/index.html
+81,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",13.61,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_900/index.html
+82,Princess Between Worlds (Wide-Awake Princess #5),13.34,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_901/index.html
+83,"Pop Gun War, Volume 1: Gift",18.97,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_902/index.html
+84,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",36.28,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_903/index.html
+85,Patience,10.16,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_904/index.html
+86,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",15.44,4,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_905/index.html
+87,orange: The Complete Collection 1 (orange: The Complete Collection #1),48.41,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_906/index.html
+88,Online Marketing for Busy Authors: A Step-By-Step Guide,46.35,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_907/index.html
+89,On a Midnight Clear,14.07,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_908/index.html
+90,Obsidian (Lux #1),14.86,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_909/index.html
+91,My Paris Kitchen: Recipes and Stories,33.37,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_910/index.html
+92,Masks and Shadows,56.4,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_911/index.html
+93,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",14.02,4,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_912/index.html
+94,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",46.91,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_913/index.html
+95,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",45.61,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_914/index.html
+96,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),19.92,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_915/index.html
+97,"Layered: Baking, Building, and Styling Spectacular Cakes",40.11,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_916/index.html
+98,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),53.9,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_917/index.html
+99,Join,35.67,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_918/index.html
+100,In the Country We Love: My Family Divided,22.0,4,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_919/index.html
+101,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,57.36,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_880/index.html
+102,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",29.17,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_881/index.html
+103,I am a Hero Omnibus Volume 1,54.63,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_882/index.html
+104,How to Be Miserable: 40 Strategies You Already Use,46.03,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_883/index.html
+105,Her Backup Boyfriend (The Sorensen Family #1),33.97,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_884/index.html
+106,"Giant Days, Vol. 2 (Giant Days #5-8)",22.11,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_885/index.html
+107,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,29.69,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_886/index.html
+108,First and First (Five Boroughs #3),15.97,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_887/index.html
+109,Fifty Shades Darker (Fifty Shades #2),21.96,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_888/index.html
+110,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,54.35,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_889/index.html
+111,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",37.97,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_890/index.html
+112,Danganronpa Volume 1,51.99,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_891/index.html
+113,Crown of Midnight (Throne of Glass #2),43.29,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_892/index.html
+114,"Codename Baboushka, Volume 1: The Conclave of Death",36.72,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_893/index.html
+115,Camp Midnight,17.08,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_894/index.html
+116,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,29.14,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_895/index.html
+117,Burning,28.81,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_896/index.html
+118,Bossypants,49.46,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_897/index.html
+119,"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",37.92,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_898/index.html
+120,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",28.09,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_899/index.html
+121,Algorithms to Live By: The Computer Science of Human Decisions,30.81,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_860/index.html
+122,A World of Flavor: Your Gluten Free Passport,42.95,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_861/index.html
+123,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",56.76,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_862/index.html
+124,A Murder in Time,16.64,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_863/index.html
+125,A Flight of Arrows (The Pathfinders #2),55.53,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_864/index.html
+126,A Fierce and Subtle Poison,28.13,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_865/index.html
+127,A Court of Thorns and Roses (A Court of Thorns and Roses #1),52.37,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_866/index.html
+128,(Un)Qualified: How God Uses Broken People to Do Big Things,54.0,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_867/index.html
+129,You Are What You Love: The Spiritual Power of Habit,21.87,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_868/index.html
+130,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.3,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_869/index.html
+131,Tuesday Nights in 1980,21.04,2,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_870/index.html
+132,Tracing Numbers on a Train,41.6,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_871/index.html
+133,Throne of Glass (Throne of Glass #1),35.07,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_872/index.html
+134,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,59.64,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_873/index.html
+135,Thirteen Reasons Why,52.72,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_874/index.html
+136,The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,58.08,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_875/index.html
+137,The Wedding Dress,24.12,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_876/index.html
+138,The Vacationers,42.15,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_877/index.html
+139,The Third Wave: An Entrepreneur’s Vision of the Future,12.61,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_878/index.html
+140,The Stranger,17.44,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_879/index.html
+141,The Shadow Hero (The Shadow Hero),33.14,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_840/index.html
+142,The Secret (The Secret #1),27.37,4,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_841/index.html
+143,The Regional Office Is Under Attack!,51.36,5,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_842/index.html
+144,The Psychopath Test: A Journey Through the Madness Industry,36.0,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_843/index.html
+145,The Project,10.65,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_844/index.html
+146,The Power of Now: A Guide to Spiritual Enlightenment,43.54,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_845/index.html
+147,The Omnivore's Dilemma: A Natural History of Four Meals,38.21,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_846/index.html
+148,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,37.34,5,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_847/index.html
+149,The Murder of Roger Ackroyd (Hercule Poirot #4),44.1,4,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_848/index.html
+150,The Mistake (Off-Campus #2),43.29,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_849/index.html
+151,The Matchmaker's Playbook (Wingmen Inc. #1),55.85,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_850/index.html
+152,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,37.6,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_851/index.html
+153,The Long Shadow of Small Ghosts: Murder and Memory in an American City,10.97,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_852/index.html
+154,The Kite Runner,41.82,4,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_853/index.html
+155,The House by the Lake,36.95,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_854/index.html
+156,The Glittering Court (The Glittering Court #1),44.28,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_855/index.html
+157,The Girl on the Train,55.02,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_856/index.html
+158,The Genius of Birds,17.24,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_857/index.html
+159,The Emerald Mystery,23.15,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_858/index.html
+160,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,41.25,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_859/index.html
+161,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,32.0,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_820/index.html
+162,The Artist's Way: A Spiritual Path to Higher Creativity,38.49,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_821/index.html
+163,The Art of War,33.34,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_822/index.html
+164,The Argonauts,10.93,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_823/index.html
+165,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,27.55,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_824/index.html
+166,Suddenly in Love (Lake Haven #1),55.99,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_825/index.html
+167,Something More Than This,16.24,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_826/index.html
+168,Soft Apocalypse,26.12,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_827/index.html
+169,So You've Been Publicly Shamed,12.23,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_828/index.html
+170,Shoe Dog: A Memoir by the Creator of NIKE,23.99,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_829/index.html
+171,"Shobu Samurai, Project Aryoku (#3)",29.06,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_830/index.html
+172,Secrets and Lace (Fatal Hearts #1),20.27,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_831/index.html
+173,Scarlett Epstein Hates It Here,43.55,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_832/index.html
+174,Romero and Juliet: A Tragic Tale of Love and Zombies,36.94,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_833/index.html
+175,Redeeming Love,20.47,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_834/index.html
+176,Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,41.06,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_835/index.html
+177,Poems That Make Grown Women Cry,14.19,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_836/index.html
+178,"Nightingale, Sing",38.28,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_837/index.html
+179,Night Sky with Exit Wounds,41.05,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_838/index.html
+180,Mrs. Houdini,30.25,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_839/index.html
+181,Modern Romance,28.26,5,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_800/index.html
+182,Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children #1),10.76,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_801/index.html
+183,Louisa: The Extraordinary Life of Mrs. Adams,16.85,2,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_802/index.html
+184,Little Red,13.47,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_803/index.html
+185,Library of Souls (Miss Peregrine’s Peculiar Children #3),48.56,5,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_804/index.html
+186,Large Print Heart of the Pride,19.15,2,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_805/index.html
+187,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,57.36,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_806/index.html
+188,Hollow City (Miss Peregrine’s Peculiar Children #2),42.98,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_807/index.html
+189,Grumbles,22.16,2,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_808/index.html
+190,Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,49.43,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_809/index.html
+191,Frostbite (Vampire Academy #2),29.99,5,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_810/index.html
+192,Follow You Home,21.36,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_811/index.html
+193,First Steps for New Christians (Print Edition),29.0,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_812/index.html
+194,Finders Keepers (Bill Hodges Trilogy #2),53.53,5,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_813/index.html
+195,"Fables, Vol. 1: Legends in Exile (Fables #1)",41.62,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_814/index.html
+196,Eureka Trivia 6.0,54.59,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_815/index.html
+197,Drive: The Surprising Truth About What Motivates Us,34.95,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_816/index.html
+198,Done Rubbed Out (Reightman & Bailey #1),37.72,5,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_817/index.html
+199,Doing It Over (Most Likely To #1),35.61,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_818/index.html
+200,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",42.16,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_819/index.html
+201,Dark Notes,19.19,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_780/index.html
+202,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",19.43,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_781/index.html
+203,Close to You,49.46,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_782/index.html
+204,Chasing Heaven: What Dying Taught Me About Living,37.8,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_783/index.html
+205,Big Magic: Creative Living Beyond Fear,30.8,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_784/index.html
+206,Becoming Wise: An Inquiry into the Mystery and Art of Living,27.43,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_785/index.html
+207,Beauty Restored (Riley Family Legacy Novellas #3),11.11,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_786/index.html
+208,Batman: The Long Halloween (Batman),36.5,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_787/index.html
+209,Batman: The Dark Knight Returns (Batman),15.38,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_788/index.html
+210,Ayumi's Violin,15.48,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_789/index.html
+211,Anonymous,46.82,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_790/index.html
+212,Amy Meets the Saints and Sages,18.46,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_791/index.html
+213,Amid the Chaos,36.58,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_792/index.html
+214,Amatus,50.54,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_793/index.html
+215,Agnostic: A Spirited Manifesto,12.51,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_794/index.html
+216,Zealot: The Life and Times of Jesus of Nazareth,24.7,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_795/index.html
+217,You (You #1),43.61,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_796/index.html
+218,"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",37.34,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_797/index.html
+219,Wild Swans,14.36,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_798/index.html
+220,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,52.65,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_799/index.html
+221,Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,38.2,4,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_760/index.html
+222,What's It Like in Space?: Stories from Astronauts Who've Been There,19.6,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_761/index.html
+223,"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",53.9,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_762/index.html
+224,Walt Disney's Alice in Wonderland,12.96,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_763/index.html
+225,V for Vendetta (V for Vendetta Complete),37.1,4,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_764/index.html
+226,Until Friday Night (The Field Party #1),46.31,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_765/index.html
+227,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",45.95,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_766/index.html
+228,Twenty Yawns,22.08,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_767/index.html
+229,Through the Woods,25.38,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_768/index.html
+230,This Is Where It Ends,27.12,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_769/index.html
+231,The Year of Magical Thinking,43.04,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_770/index.html
+232,The Wright Brothers,56.8,4,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_771/index.html
+233,The White Queen (The Cousins' War #1),25.91,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_772/index.html
+234,The Wedding Pact (The O'Malleys #2),32.61,3,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_773/index.html
+235,The Time Keeper,27.88,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_774/index.html
+236,The Testament of Mary,52.67,4,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_775/index.html
+237,The Star-Touched Queen,46.02,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_776/index.html
+238,The Songs of the Gods,44.48,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_777/index.html
+239,The Song of Achilles,37.4,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_778/index.html
+240,The Rosie Project (Don Tillman #1),54.04,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_779/index.html
+241,The Power of Habit: Why We Do What We Do in Life and Business,16.88,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_740/index.html
+242,The Marriage of Opposites,28.08,4,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_741/index.html
+243,The Lucifer Effect: Understanding How Good People Turn Evil,10.4,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_742/index.html
+244,The Long Haul (Diary of a Wimpy Kid #9),44.07,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_743/index.html
+245,The Loney,23.4,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_744/index.html
+246,The Literature Book (Big Ideas Simply Explained),17.43,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_745/index.html
+247,The Last Mile (Amos Decker #2),54.21,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_746/index.html
+248,The Immortal Life of Henrietta Lacks,40.67,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_747/index.html
+249,The Hidden Oracle (The Trials of Apollo #1),52.26,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_748/index.html
+250,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,28.77,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_749/index.html
+251,The Guilty (Will Robie #4),13.82,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_750/index.html
+252,The First Hostage (J.B. Collins #2),25.85,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_751/index.html
+253,The Dovekeepers,48.78,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_752/index.html
+254,The Darkest Lie,35.35,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_753/index.html
+255,The Bane Chronicles (The Bane Chronicles #1-11),44.73,4,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_754/index.html
+256,The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts,15.77,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_755/index.html
+257,The 14th Colony (Cotton Malone #11),39.24,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_756/index.html
+258,That Darkness (Gardiner and Renner #1),13.92,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_757/index.html
+259,Tastes Like Fear (DI Marnie Rome #3),10.69,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_758/index.html
+260,Take Me with You,45.21,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_759/index.html
+261,Swell: A Year of Waves,45.58,1,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_720/index.html
+262,Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),11.89,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_721/index.html
+263,Still Life with Bread Crumbs,26.41,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_722/index.html
+264,Steve Jobs,39.5,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_723/index.html
+265,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,44.74,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_724/index.html
+266,Someone Like You (The Harrisons #2),52.79,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_725/index.html
+267,"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",35.43,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_726/index.html
+268,Shtum,55.84,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_727/index.html
+269,See America: A Celebration of Our National Parks & Treasured Sites,48.87,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_728/index.html
+270,salt.,46.78,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_729/index.html
+271,Robin War,47.82,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_730/index.html
+272,"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",25.48,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_731/index.html
+273,Rain Fish,23.57,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_732/index.html
+274,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",50.89,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_733/index.html
+275,Pet Sematary,10.56,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_734/index.html
+276,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",52.15,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_735/index.html
+277,Once Was a Time,18.28,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_736/index.html
+278,Old School (Diary of a Wimpy Kid #10),11.83,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_737/index.html
+279,No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,21.95,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_738/index.html
+280,"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",38.39,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_739/index.html
+281,My Name Is Lucy Barton,41.56,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_700/index.html
+282,My Mrs. Brown,24.48,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_701/index.html
+283,My Kind of Crazy,40.36,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_702/index.html
+284,Mr. Mercedes (Bill Hodges Trilogy #1),28.9,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_703/index.html
+285,More Than Music (Chasing the Dream #1),37.61,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_704/index.html
+286,Made to Stick: Why Some Ideas Survive and Others Die,38.85,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_705/index.html
+287,Luis Paints the World,53.95,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_706/index.html
+288,Luckiest Girl Alive,49.83,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_707/index.html
+289,Lowriders to the Center of the Earth (Lowriders in Space #2),51.51,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_708/index.html
+290,Love Is a Mix Tape (Music #1),18.03,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_709/index.html
+291,Looking for Lovely: Collecting the Moments that Matter,29.14,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_710/index.html
+292,"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",46.91,4,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_711/index.html
+293,Let It Out: A Journey Through Journaling,26.79,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_712/index.html
+294,Lady Midnight (The Dark Artifices #1),16.28,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_713/index.html
+295,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",19.55,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_714/index.html
+296,Island of Dragons (Unwanteds #7),29.65,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_715/index.html
+297,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,25.98,4,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_716/index.html
+298,I Am Pilgrim (Pilgrim #1),10.6,4,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_717/index.html
+299,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",14.75,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_718/index.html
+300,"Hush, Hush (Hush, Hush #1)",47.02,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_719/index.html
+301,Hold Your Breath (Search and Rescue #1),28.82,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_680/index.html
+302,Hamilton: The Revolution,58.79,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_681/index.html
+303,Greek Mythic History,10.23,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_682/index.html
+304,God: The Most Unpleasant Character in All Fiction,30.03,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_683/index.html
+305,Glory over Everything: Beyond The Kitchen House,45.84,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_684/index.html
+306,Feathers: Displays of Brilliant Plumage,49.05,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_685/index.html
+307,"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",15.06,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_686/index.html
+308,Every Last Word,46.47,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_687/index.html
+309,Eligible (The Austen Project #4),27.09,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_688/index.html
+310,El Deafo,57.62,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_689/index.html
+311,Eight Hundred Grapes,14.39,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_690/index.html
+312,"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",51.75,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_691/index.html
+313,"Eat Fat, Get Thin",54.07,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_692/index.html
+314,Don't Get Caught,55.35,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_693/index.html
+315,Doctor Sleep (The Shining #2),40.12,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_694/index.html
+316,Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),37.51,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_695/index.html
+317,Dear Mr. Knightley,11.21,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_696/index.html
+318,Daily Fantasy Sports,36.58,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_697/index.html
+319,Crazy Love: Overwhelmed by a Relentless God,47.72,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_698/index.html
+320,Cometh the Hour (The Clifton Chronicles #6),25.01,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_699/index.html
+321,Code Name Verity (Code Name Verity #1),22.13,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_660/index.html
+322,Clockwork Angel (The Infernal Devices #1),44.14,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_661/index.html
+323,City of Glass (The Mortal Instruments #3),56.02,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_662/index.html
+324,City of Fallen Angels (The Mortal Instruments #4),11.23,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_663/index.html
+325,City of Bones (The Mortal Instruments #1),43.28,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_664/index.html
+326,City of Ashes (The Mortal Instruments #2),47.27,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_665/index.html
+327,Cell,20.29,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_666/index.html
+328,Catching Jordan (Hundred Oaks),50.83,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_667/index.html
+329,"Carry On, Warrior: Thoughts on Life Unarmed",31.85,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_668/index.html
+330,Carrie,46.23,2,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_669/index.html
+331,Buying In: The Secret Dialogue Between What We Buy and Who We Are,37.8,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_670/index.html
+332,Brain on Fire: My Month of Madness,49.32,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_671/index.html
+333,Batman: Europa,32.01,2,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_672/index.html
+334,Barefoot Contessa Back to Basics,28.01,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_673/index.html
+335,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,50.62,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_674/index.html
+336,Balloon Animals,17.03,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_675/index.html
+337,Art Ops Vol. 1,48.8,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_676/index.html
+338,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),58.14,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_677/index.html
+339,Angels Walking (Angels Walking #1),34.2,2,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_678/index.html
+340,Angels & Demons (Robert Langdon #1),51.48,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_679/index.html
+341,All the Light We Cannot See,29.87,5,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_640/index.html
+342,"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",10.9,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_641/index.html
+343,Abstract City,56.37,5,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_642/index.html
+344,A Time of Torment (Charlie Parker #14),48.35,5,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_643/index.html
+345,A Study in Scarlet (Sherlock Holmes #1),16.73,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_644/index.html
+346,"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",56.48,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_645/index.html
+347,A People's History of the United States,40.79,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_646/index.html
+348,A Man Called Ove,39.72,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_647/index.html
+349,A Distant Mirror: The Calamitous 14th Century,14.58,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_648/index.html
+350,A Brush of Wings (Angels Walking #3),55.51,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_649/index.html
+351,1491: New Revelations of the Americas Before Columbus,21.8,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_650/index.html
+352,"The Three Searches, Meaning, and the Story",13.33,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_651/index.html
+353,Searching for Meaning in Gailana,38.73,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_652/index.html
+354,Rook,37.86,4,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_653/index.html
+355,My Kitchen Year: 136 Recipes That Saved My Life,11.53,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_654/index.html
+356,13 Hours: The Inside Account of What Really Happened In Benghazi,27.06,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_655/index.html
+357,Will You Won't You Want Me?,13.86,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_656/index.html
+358,Tipping Point for Planet Earth: How Close Are We to the Edge?,37.55,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_657/index.html
+359,The Star-Touched Queen,32.3,5,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_658/index.html
+360,The Silent Sister (Riley MacPherson #1),46.29,5,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_659/index.html
+361,The Midnight Watch: A Novel of the Titanic and the Californian,26.2,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_620/index.html
+362,The Lonely City: Adventures in the Art of Being Alone,33.26,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_621/index.html
+363,The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,59.15,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_622/index.html
+364,The Golden Condom: And Other Essays on Love Lost and Found,39.43,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_623/index.html
+365,The Epidemic (The Program 0.6),14.44,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_624/index.html
+366,The Dinner Party,56.54,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_625/index.html
+367,The Diary of a Young Girl,59.9,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_626/index.html
+368,The Children,11.88,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_627/index.html
+369,Stars Above (The Lunar Chronicles #4.5),48.05,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_628/index.html
+370,Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,21.21,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_629/index.html
+371,Raspberry Pi Electronics Projects for the Evil Genius,49.67,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_630/index.html
+372,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,43.14,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_631/index.html
+373,Psycho: Sanitarium (Psycho #1.5),36.97,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_632/index.html
+374,Poisonous (Max Revere Novels #3),26.8,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_633/index.html
+375,One with You (Crossfire #5),15.71,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_634/index.html
+376,No Love Allowed (Dodge Cove #1),54.65,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_635/index.html
+377,Murder at the 42nd Street Library (Raymond Ambler #1),54.36,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_636/index.html
+378,Most Wanted,35.28,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_637/index.html
+379,"Love, Lies and Spies",20.55,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_638/index.html
+380,How to Speak Golf: An Illustrated Guide to Links Lingo,58.32,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_639/index.html
+381,Hide Away (Eve Duncan #20),11.84,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_600/index.html
+382,Furiously Happy: A Funny Book About Horrible Things,41.46,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_601/index.html
+383,Everyday Italian: 125 Simple and Delicious Recipes,20.1,5,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_602/index.html
+384,Equal Is Unfair: America's Misguided Fight Against Income Inequality,56.86,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_603/index.html
+385,Eleanor & Park,56.51,5,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_604/index.html
+386,Dirty (Dive Bar #1),40.83,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_605/index.html
+387,Can You Keep a Secret? (Fear Street Relaunch #4),48.64,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_606/index.html
+388,Boar Island (Anna Pigeon #19),59.48,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_607/index.html
+389,A Paris Apartment,39.01,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_608/index.html
+390,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",38.77,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_609/index.html
+391,Troublemaker: Surviving Hollywood and Scientology,48.39,2,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_610/index.html
+392,The Widow,27.26,2,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_611/index.html
+393,"The Sleep Revolution: Transforming Your Life, One Night at a Time",11.68,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_612/index.html
+394,The Improbability of Love,59.45,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_613/index.html
+395,The Art of Startup Fundraising,21.0,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_614/index.html
+396,Take Me Home Tonight (Rock Star Romance #3),53.98,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_615/index.html
+397,Sleeping Giants (Themis Files #1),48.74,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_616/index.html
+398,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",21.15,2,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_617/index.html
+399,Playing with Fire,13.71,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_618/index.html
+400,Off the Hook (Fishing for Trouble #1),47.67,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_619/index.html
+401,Mothering Sunday,13.34,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_580/index.html
+402,"Mother, Can You Not?",16.89,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_581/index.html
+403,M Train,27.18,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_582/index.html
+404,Lilac Girls,17.28,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_583/index.html
+405,Lies and Other Acts of Love,45.14,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_584/index.html
+406,Lab Girl,40.85,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_585/index.html
+407,Keep Me Posted,20.46,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_586/index.html
+408,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,56.27,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_587/index.html
+409,Grey (Fifty Shades #4),48.49,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_588/index.html
+410,"Exit, Pursued by a Bear",51.34,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_589/index.html
+411,Daredevils,16.34,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_590/index.html
+412,Cravings: Recipes for What You Want to Eat,20.5,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_591/index.html
+413,Born for This: How to Find the Work You Were Meant to Do,21.59,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_592/index.html
+414,Arena,21.36,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_593/index.html
+415,Adultery,20.88,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_594/index.html
+416,A Mother's Reckoning: Living in the Aftermath of Tragedy,19.53,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_595/index.html
+417,A Gentleman's Position (Society of Gentlemen #3),14.75,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_596/index.html
+418,11/22/63,48.48,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_597/index.html
+419,"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",24.57,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_598/index.html
+420,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,49.71,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_599/index.html
+421,Without Shame,48.27,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_560/index.html
+422,Watchmen,58.05,4,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_561/index.html
+423,Unlimited Intuition Now,58.87,4,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_562/index.html
+424,Underlying Notes,11.82,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_563/index.html
+425,The Shack,28.03,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_564/index.html
+426,The New Brand You: Your New Image Makes the Sale for You,44.05,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_565/index.html
+427,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",12.34,4,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_566/index.html
+428,The Flowers Lied,16.68,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_567/index.html
+429,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",55.91,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_568/index.html
+430,The Book of Mormon,24.57,3,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_569/index.html
+431,The Art and Science of Low Carbohydrate Living,52.98,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_570/index.html
+432,The Alien Club,54.4,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_571/index.html
+433,Suzie Snowflake: One beautiful flake (a self-esteem story),54.81,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_572/index.html
+434,Nap-a-Roo,25.08,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_573/index.html
+435,"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",10.41,4,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_574/index.html
+436,Modern Day Fables,47.44,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_575/index.html
+437,If I Gave You God's Phone Number....: Searching for Spirituality in America,20.91,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_576/index.html
+438,"Fruits Basket, Vol. 9 (Fruits Basket #9)",33.95,4,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_577/index.html
+439,Dress Your Family in Corduroy and Denim,43.68,3,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_578/index.html
+440,Don't Forget Steven,33.23,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_579/index.html
+441,Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,35.92,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_540/index.html
+442,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,48.63,4,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_541/index.html
+443,A Shard of Ice (The Black Symphony Saga #1),56.63,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_542/index.html
+444,A Hero's Curse (The Unseen Chronicles #1),50.49,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_543/index.html
+445,23 Degrees South: A Tropical Tale of Changing Whether...,35.79,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_544/index.html
+446,"Zero to One: Notes on Startups, or How to Build the Future",34.06,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_545/index.html
+447,Why Not Me?,17.76,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_546/index.html
+448,When Breath Becomes Air,39.36,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_547/index.html
+449,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,36.94,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_548/index.html
+450,The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),43.62,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_549/index.html
+451,The New Drawing on the Right Side of the Brain,43.02,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_550/index.html
+452,"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",28.45,4,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_551/index.html
+453,The Martian (The Martian #1),41.39,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_552/index.html
+454,The High Mountains of Portugal,51.15,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_553/index.html
+455,The Grownup,35.88,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_554/index.html
+456,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,36.91,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_555/index.html
+457,South of Sunshine,28.93,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_556/index.html
+458,Smarter Faster Better: The Secrets of Being Productive in Life and Business,38.89,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_557/index.html
+459,Silence in the Dark (Logan Point #4),58.33,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_558/index.html
+460,Shadows of the Past (Logan Point #1),39.67,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_559/index.html
+461,Roller Girl,14.1,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_520/index.html
+462,Rising Strong,21.82,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_521/index.html
+463,Proofs of God: Classical Arguments from Tertullian to Barth,54.21,1,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_522/index.html
+464,Please Kill Me: The Uncensored Oral History of Punk,31.19,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_523/index.html
+465,Out of Print: City Lights Spotlight No. 14,53.64,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_524/index.html
+466,My Life Next Door (My Life Next Door ),36.39,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_525/index.html
+467,Miller's Valley,58.54,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_526/index.html
+468,Man's Search for Meaning,29.48,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_527/index.html
+469,"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",25.06,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_528/index.html
+470,Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,12.55,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_529/index.html
+471,Les Fleurs du Mal,29.04,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_530/index.html
+472,Left Behind (Left Behind #1),40.72,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_531/index.html
+473,Kill 'Em and Leave: Searching for James Brown and the American Soul,45.05,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_532/index.html
+474,Kierkegaard: A Christian Missionary to Christians,47.13,1,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_533/index.html
+475,John Vassos: Industrial Design for Modern Life,20.22,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_534/index.html
+476,I'll Give You the Sun,56.48,1,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_535/index.html
+477,I Will Find You,44.21,1,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_536/index.html
+478,Hystopia: A Novel,21.96,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_537/index.html
+479,Howl and Other Poems,40.45,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_538/index.html
+480,History of Beauty,10.29,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_539/index.html
+481,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,52.86,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_500/index.html
+482,Future Shock (Future Shock #1),55.65,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_501/index.html
+483,Ender's Game (The Ender Quintet #1),43.64,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_502/index.html
+484,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,28.41,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_503/index.html
+485,Death by Leisure: A Cautionary Tale,37.51,4,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_504/index.html
+486,Brilliant Beacons: A History of the American Lighthouse,11.45,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_505/index.html
+487,Brazen: The Courage to Find the You That's Been Hiding,19.22,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_506/index.html
+488,Between the World and Me,56.91,4,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_507/index.html
+489,Being Mortal: Medicine and What Matters in the End,55.06,4,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_508/index.html
+490,"A Murder Over a Girl: Justice, Gender, Junior High",13.2,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_509/index.html
+491,32 Yolks,53.63,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_510/index.html
+492,"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",44.48,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_511/index.html
+493,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,12.08,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_512/index.html
+494,Wildlife of New York: A Five-Borough Coloring Book,22.14,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_513/index.html
+495,What Happened on Beale Street (Secrets of the South Mysteries #2),25.37,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_514/index.html
+496,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,46.33,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_515/index.html
+497,Under the Tuscan Sun,37.33,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_516/index.html
+498,Toddlers Are A**holes: It's Not Your Fault,25.55,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_517/index.html
+499,The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,34.72,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_518/index.html
+500,The Whale,35.96,4,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_519/index.html
+501,The Story of Art,41.14,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_480/index.html
+502,The Origin of Species,10.01,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_481/index.html
+503,The Great Gatsby,36.05,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_482/index.html
+504,The Good Girl,49.03,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_483/index.html
+505,The Glass Castle,16.24,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_484/index.html
+506,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,39.55,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_485/index.html
+507,The Drowning Girls,35.67,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_486/index.html
+508,The Constant Princess (The Tudor Court #1),16.62,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_487/index.html
+509,The Bourne Identity (Jason Bourne #1),42.78,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_488/index.html
+510,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),52.3,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_489/index.html
+511,The Art Book,32.34,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_490/index.html
+512,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,33.17,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_491/index.html
+513,Team of Rivals: The Political Genius of Abraham Lincoln,20.12,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_492/index.html
+514,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,20.9,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_493/index.html
+515,"Sit, Stay, Love",20.9,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_494/index.html
+516,Sister Dear,40.2,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_495/index.html
+517,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",52.87,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_496/index.html
+518,"Rich Dad, Poor Dad",51.74,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_497/index.html
+519,Raymie Nightingale,34.41,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_498/index.html
+520,Playing from the Heart,32.38,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_499/index.html
+521,Nightstruck: A Novel,50.35,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_460/index.html
+522,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",11.38,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_461/index.html
+523,Meternity,43.58,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_462/index.html
+524,Memoirs of a Geisha,49.67,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_463/index.html
+525,Like Never Before (Walker Family #2),28.77,2,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_464/index.html
+526,Life of Pi,13.22,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_465/index.html
+527,Leave This Song Behind: Teen Poetry at Its Best,51.17,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_466/index.html
+528,King's Folly (The Kinsman Chronicles #1),39.61,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_467/index.html
+529,John Adams,57.43,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_468/index.html
+530,How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),46.01,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_469/index.html
+531,How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,28.25,2,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_470/index.html
+532,Good in Bed (Cannie Shapiro #1),37.05,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_471/index.html
+533,"Fruits Basket, Vol. 7 (Fruits Basket #7)",19.57,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_472/index.html
+534,For the Love: Fighting for Grace in a World of Impossible Standards,45.13,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_473/index.html
+535,Finding God in the Ruins: How God Redeems Pain,46.64,2,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_474/index.html
+536,Every Heart a Doorway (Every Heart A Doorway #1),12.16,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_475/index.html
+537,Delivering the Truth (Quaker Midwife Mystery #1),20.89,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_476/index.html
+538,Counted With the Stars (Out from Egypt #1),17.97,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_477/index.html
+539,"Chronicles, Vol. 1",52.6,2,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_478/index.html
+540,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,25.77,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_479/index.html
+541,Benjamin Franklin: An American Life,48.19,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_440/index.html
+542,"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",29.93,5,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_441/index.html
+543,A Summer In Europe,44.34,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_442/index.html
+544,A Short History of Nearly Everything,52.4,5,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_443/index.html
+545,A Gathering of Shadows (Shades of Magic #2),44.81,4,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_444/index.html
+546,The Sound Of Love,57.84,5,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_445/index.html
+547,The Rise and Fall of the Third Reich: A History of Nazi Germany,39.67,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_446/index.html
+548,The Perks of Being a Wallflower,55.02,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_447/index.html
+549,The Mysterious Affair at Styles (Hercule Poirot #1),24.8,4,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_448/index.html
+550,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,59.45,4,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_449/index.html
+551,The Makings of a Fatherless Child,31.58,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_450/index.html
+552,The Joy of Cooking,43.27,4,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_451/index.html
+553,The Invention of Wings,37.34,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_452/index.html
+554,The Hobbit (Middle-Earth Universe),17.8,5,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_453/index.html
+555,The Great Railway Bazaar,30.54,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_454/index.html
+556,The Golden Compass (His Dark Materials #1),18.77,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_455/index.html
+557,The God Delusion,46.85,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_456/index.html
+558,The Girl You Left Behind (The Girl You Left Behind #1),15.79,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_457/index.html
+559,The Fellowship of the Ring (The Lord of the Rings #1),10.27,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_458/index.html
+560,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),15.42,5,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_459/index.html
+561,The Barefoot Contessa Cookbook,59.92,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_420/index.html
+562,Tell the Wolves I'm Home,50.96,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_421/index.html
+563,Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,30.6,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_422/index.html
+564,Pride and Prejudice,19.27,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_423/index.html
+565,Musicophilia: Tales of Music and the Brain,46.58,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_424/index.html
+566,Mere Christianity,48.51,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_425/index.html
+567,Me Before You (Me Before You #1),19.02,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_426/index.html
+568,In the Woods (Dublin Murder Squad #1),38.38,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_427/index.html
+569,In Cold Blood,49.98,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_428/index.html
+570,How to Stop Worrying and Start Living,46.49,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_429/index.html
+571,Give It Back,18.32,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_430/index.html
+572,"Girl, Interrupted",42.14,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_431/index.html
+573,Fun Home: A Family Tragicomic,56.59,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_432/index.html
+574,"Fruits Basket, Vol. 6 (Fruits Basket #6)",20.96,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_433/index.html
+575,Deception Point,40.32,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_434/index.html
+576,"Death Note, Vol. 6: Give-and-Take (Death Note #6)",36.39,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_435/index.html
+577,Catherine the Great: Portrait of a Woman,58.55,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_436/index.html
+578,Better Homes and Gardens New Cook Book,39.61,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_437/index.html
+579,An Unquiet Mind: A Memoir of Moods and Madness,21.3,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_438/index.html
+580,A Year in Provence (Provence #1),56.88,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_439/index.html
+581,World Without End (The Pillars of the Earth #2),32.97,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_400/index.html
+582,"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",47.31,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_401/index.html
+583,Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,48.67,2,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_402/index.html
+584,Where She Went (If I Stay #2),41.73,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_403/index.html
+585,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,53.68,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_404/index.html
+586,Two Summers,14.64,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_405/index.html
+587,This Is Your Brain on Music: The Science of a Human Obsession,38.4,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_406/index.html
+588,The Secret Garden,15.08,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_407/index.html
+589,The Raven King (The Raven Cycle #4),30.57,2,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_408/index.html
+590,The Raven Boys (The Raven Cycle #1),57.74,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_409/index.html
+591,The Power Greens Cookbook: 140 Delicious Superfood Recipes,11.05,5,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_410/index.html
+592,The Metamorphosis,28.58,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_411/index.html
+593,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,42.91,5,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_412/index.html
+594,The Little Paris Bookshop,24.73,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_413/index.html
+595,The Hiding Place,55.91,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_414/index.html
+596,The Grand Design,13.76,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_415/index.html
+597,The Firm,45.56,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_416/index.html
+598,The Fault in Our Stars,47.22,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_417/index.html
+599,The False Prince (The Ascendance Trilogy #1),56.0,5,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_418/index.html
+600,The Expatriates,44.58,2,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_419/index.html
+601,The Dream Thieves (The Raven Cycle #2),34.5,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_380/index.html
+602,The Darkest Corners,11.33,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_381/index.html
+603,The Crossover,38.77,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_382/index.html
+604,The 5th Wave (The 5th Wave #1),11.83,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_383/index.html
+605,Tell the Wind and Fire,45.51,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_384/index.html
+606,Tell Me Three Things,41.81,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_385/index.html
+607,Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,25.15,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_386/index.html
+608,Siddhartha,34.22,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_387/index.html
+609,Shiver (The Wolves of Mercy Falls #1),16.23,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_388/index.html
+610,Remember Me?,11.48,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_389/index.html
+611,Red Dragon (Hannibal Lecter #1),23.37,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_390/index.html
+612,Peak: Secrets from the New Science of Expertise,16.28,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_391/index.html
+613,My Mother Was Nuts,31.63,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_392/index.html
+614,Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,24.91,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_393/index.html
+615,Maybe Something Beautiful: How Art Transformed a Neighborhood,22.54,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_394/index.html
+616,Lola and the Boy Next Door (Anna and the French Kiss #2),23.63,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_395/index.html
+617,Logan Kade (Fallen Crest High #5.5),13.12,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_396/index.html
+618,Last One Home (New Beginnings #1),59.98,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_397/index.html
+619,Killing Floor (Jack Reacher #1),31.49,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_398/index.html
+620,Kill the Boy Band,15.52,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_399/index.html
+621,Isla and the Happily Ever After (Anna and the French Kiss #3),48.13,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_360/index.html
+622,If I Stay (If I Stay #1),38.13,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_361/index.html
+623,I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),36.55,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_362/index.html
+624,Harry Potter and the Deathly Hallows (Harry Potter #7),23.32,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_363/index.html
+625,"Fruits Basket, Vol. 5 (Fruits Basket #5)",16.33,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_364/index.html
+626,Foundation (Foundation (Publication Order) #1),32.42,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_365/index.html
+627,Fool Me Once,16.96,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_366/index.html
+628,Find Her (Detective D.D. Warren #8),22.37,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_367/index.html
+629,Evicted: Poverty and Profit in the American City,42.27,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_368/index.html
+630,Drama,38.7,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_369/index.html
+631,Dracula the Un-Dead,35.63,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_370/index.html
+632,Digital Fortress,58.0,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_371/index.html
+633,"Death Note, Vol. 5: Whiteout (Death Note #5)",52.41,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_372/index.html
+634,"Data, A Love Story: How I Gamed Online Dating to Meet My Match",32.35,3,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_373/index.html
+635,Critique of Pure Reason,20.75,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_374/index.html
+636,Booked,17.49,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_375/index.html
+637,"Blue Lily, Lily Blue (The Raven Cycle #3)",34.13,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_376/index.html
+638,Approval Junkie: Adventures in Caring Too Much,58.81,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_377/index.html
+639,An Abundance of Katherines,10.0,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_378/index.html
+640,America's War for the Greater Middle East: A Military History,51.22,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_379/index.html
+641,Alight (The Generations Trilogy #2),58.59,4,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_340/index.html
+642,A Girl's Guide to Moving On (New Beginnings #2),31.3,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_341/index.html
+643,A Game of Thrones (A Song of Ice and Fire #1),46.42,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_342/index.html
+644,A Feast for Crows (A Song of Ice and Fire #4),17.21,4,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_343/index.html
+645,A Clash of Kings (A Song of Ice and Fire #2),10.79,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_344/index.html
+646,Vogue Colors A to Z: A Fashion Coloring Book,52.35,4,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_345/index.html
+647,The Shining (The Shining #1),27.88,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_346/index.html
+648,The Pilgrim's Progress,50.26,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_347/index.html
+649,The Perfect Play (Play by Play #1),59.99,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_348/index.html
+650,The Passion of Dolssa,28.32,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_349/index.html
+651,The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,38.71,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_350/index.html
+652,The Hunger Games (The Hunger Games #1),29.85,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_351/index.html
+653,The Hound of the Baskervilles (Sherlock Holmes #5),14.82,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_352/index.html
+654,The Gunning of America: Business and the Making of American Gun Culture,16.81,4,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_353/index.html
+655,The Geography of Bliss: One Grump's Search for the Happiest Places in the World,28.23,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_354/index.html
+656,The Demonists (Demonist #1),52.11,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_355/index.html
+657,"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",27.88,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_356/index.html
+658,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),59.71,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_357/index.html
+659,The Beast (Black Dagger Brotherhood #14),46.08,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_358/index.html
+660,Some Women,13.73,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_359/index.html
+661,Shopaholic Ties the Knot (Shopaholic #3),48.39,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_320/index.html
+662,Paper and Fire (The Great Library #2),49.45,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_321/index.html
+663,Outlander (Outlander #1),19.67,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_322/index.html
+664,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",12.36,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_323/index.html
+665,No One Here Gets Out Alive,20.02,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_324/index.html
+666,Night Shift (Night Shift #1-20),12.75,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_325/index.html
+667,Needful Things,47.51,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_326/index.html
+668,Mockingjay (The Hunger Games #3),20.44,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_327/index.html
+669,Misery,34.79,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_328/index.html
+670,Little Women (Little Women #1),28.07,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_329/index.html
+671,It,25.01,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_330/index.html
+672,Harry Potter and the Sorcerer's Stone (Harry Potter #1),13.9,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_331/index.html
+673,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),24.17,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_332/index.html
+674,Harry Potter and the Order of the Phoenix (Harry Potter #5),31.63,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_333/index.html
+675,Harry Potter and the Half-Blood Prince (Harry Potter #6),48.75,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_334/index.html
+676,Harry Potter and the Chamber of Secrets (Harry Potter #2),14.74,1,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_335/index.html
+677,Gone with the Wind,32.49,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_336/index.html
+678,God Is Not Great: How Religion Poisons Everything,27.8,1,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_337/index.html
+679,Girl With a Pearl Earring,26.77,1,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_338/index.html
+680,"Fruits Basket, Vol. 4 (Fruits Basket #4)",50.44,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_339/index.html
+681,Far From True (Promise Falls Trilogy #2),34.93,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_300/index.html
+682,Dark Lover (Black Dagger Brotherhood #1),12.87,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_301/index.html
+683,Confessions of a Shopaholic (Shopaholic #1),48.94,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_302/index.html
+684,Changing the Game (Play by Play #2),13.38,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_303/index.html
+685,Candide,58.63,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_304/index.html
+686,Can You Keep a Secret?,21.94,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_305/index.html
+687,Atlas Shrugged,26.58,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_306/index.html
+688,Animal Farm,57.22,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_307/index.html
+689,A Walk to Remember,56.43,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_308/index.html
+690,A New Earth: Awakening to Your Life's Purpose,55.65,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_309/index.html
+691,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",27.62,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_310/index.html
+692,'Salem's Lot,49.56,4,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_311/index.html
+693,Zero History (Blue Ant #3),34.77,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_312/index.html
+694,Wuthering Heights,17.73,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_313/index.html
+695,World War Z: An Oral History of the Zombie War,21.8,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_314/index.html
+696,Wild: From Lost to Found on the Pacific Crest Trail,46.02,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_315/index.html
+697,"Where'd You Go, Bernadette",18.13,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_316/index.html
+698,When You Are Engulfed in Flames,30.89,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_317/index.html
+699,We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,31.95,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_318/index.html
+700,We Are All Completely Beside Ourselves,24.04,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_319/index.html
+701,Walk the Edge (Thunder Road #2),32.36,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_280/index.html
+702,Voyager (Outlander #3),21.07,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_281/index.html
+703,Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,50.66,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_282/index.html
+704,Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,13.66,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_283/index.html
+705,"Unstuffed: Decluttering Your Home, Mind, and Soul",58.09,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_284/index.html
+706,Under the Banner of Heaven: A Story of Violent Faith,30.0,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_285/index.html
+707,Two Boys Kissing,32.74,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_286/index.html
+708,Twilight (Twilight #1),41.93,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_287/index.html
+709,Twenties Girl,42.8,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_288/index.html
+710,"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",53.51,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_289/index.html
+711,Three-Martini Lunch,23.21,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_290/index.html
+712,"Thinking, Fast and Slow",21.14,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_291/index.html
+713,The Wild Robot,56.07,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_292/index.html
+714,"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",14.41,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_293/index.html
+715,The Undomestic Goddess,45.75,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_294/index.html
+716,The Travelers,15.77,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_295/index.html
+717,The Tipping Point: How Little Things Can Make a Big Difference,10.02,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_296/index.html
+718,The Thing About Jellyfish,48.77,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_297/index.html
+719,The Stand,57.86,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_298/index.html
+720,The Smitten Kitchen Cookbook,23.59,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_299/index.html
+721,The Silkworm (Cormoran Strike #2),23.05,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_260/index.html
+722,"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",55.55,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_261/index.html
+723,The Rose & the Dagger (The Wrath and the Dawn #2),58.64,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_262/index.html
+724,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),23.21,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_263/index.html
+725,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),42.57,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_264/index.html
+726,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_265/index.html
+727,The Rest Is Noise: Listening to the Twentieth Century,34.77,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_266/index.html
+728,The Red Tent,35.66,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_267/index.html
+729,The Purpose Driven Life: What on Earth Am I Here for?,37.19,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_268/index.html
+730,The Purest Hook (Second Circle Tattoos #3),12.25,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_269/index.html
+731,The Picture of Dorian Gray,29.7,2,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_270/index.html
+732,The Paris Wife,36.8,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_271/index.html
+733,The Obsession,45.43,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_272/index.html
+734,The Nightingale,26.26,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_273/index.html
+735,The New Guy (and Other Senior Year Distractions),44.92,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_274/index.html
+736,The Nanny Diaries (Nanny #1),52.53,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_275/index.html
+737,The Name of God is Mercy,37.25,2,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_276/index.html
+738,The Maze Runner (The Maze Runner #1),20.93,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_277/index.html
+739,The Lover's Dictionary,58.09,2,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_278/index.html
+740,The Lonely Ones,43.59,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_279/index.html
+741,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,33.92,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_240/index.html
+742,The Last Painting of Sara de Vos,55.55,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_241/index.html
+743,"The Land of 10,000 Madonnas",29.64,4,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_242/index.html
+744,The Infinities,27.41,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_243/index.html
+745,The Husband's Secret,52.51,5,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_244/index.html
+746,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),47.8,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_245/index.html
+747,The Guns of August,14.54,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_246/index.html
+748,The Guernsey Literary and Potato Peel Pie Society,49.53,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_247/index.html
+749,The Goldfinch,43.58,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_248/index.html
+750,The Giver (The Giver Quartet #1),12.3,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_249/index.html
+751,The Girl with All the Gifts,49.47,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_250/index.html
+752,The Girl Who Played with Fire (Millennium Trilogy #2),22.14,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_251/index.html
+753,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),57.48,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_252/index.html
+754,The Exiled,43.45,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_253/index.html
+755,"The End of Faith: Religion, Terror, and the Future of Reason",22.13,4,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_254/index.html
+756,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",13.03,4,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_255/index.html
+757,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",57.35,5,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_256/index.html
+758,The Devil Wears Prada (The Devil Wears Prada #1),44.29,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_257/index.html
+759,The Demon-Haunted World: Science as a Candle in the Dark,52.25,4,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_258/index.html
+760,The Day the Crayons Came Home (Crayons),26.33,5,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_259/index.html
+761,The Da Vinci Code (Robert Langdon #2),22.96,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_220/index.html
+762,The Cuckoo's Calling (Cormoran Strike #1),19.21,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_221/index.html
+763,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),26.78,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_222/index.html
+764,The Complete Poems,41.32,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_223/index.html
+765,The Catcher in the Rye,24.55,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_224/index.html
+766,The Cat in the Hat (Beginner Books B-1),16.26,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_225/index.html
+767,The Case for Christ (Cases for Christianity),47.84,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_226/index.html
+768,The Book Thief,53.49,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_227/index.html
+769,The Book of Basketball: The NBA According to The Sports Guy,44.84,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_228/index.html
+770,The Blind Side: Evolution of a Game,53.71,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_229/index.html
+771,The Autobiography of Malcolm X,23.43,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_230/index.html
+772,"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",34.32,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_231/index.html
+773,The Art of Fielding,22.1,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_232/index.html
+774,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",25.83,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_233/index.html
+775,Stiff: The Curious Lives of Human Cadavers,36.74,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_234/index.html
+776,Spilled Milk: Based on a True Story,49.51,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_235/index.html
+777,Something Borrowed (Darcy & Rachel #1),48.96,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_236/index.html
+778,Something Blue (Darcy & Rachel #2),54.62,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_237/index.html
+779,Soldier (Talon #3),24.72,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_238/index.html
+780,Shopaholic & Baby (Shopaholic #5),46.45,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_239/index.html
+781,Seven Days in the Art World,52.33,2,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_200/index.html
+782,Seven Brief Lessons on Physics,30.6,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_201/index.html
+783,Scarlet (The Lunar Chronicles #2),14.57,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_202/index.html
+784,Sarah's Key,46.29,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_203/index.html
+785,"Saga, Volume 3 (Saga (Collected Editions) #3)",21.57,5,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_204/index.html
+786,Running with Scissors,12.91,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_205/index.html
+787,Rogue Lawyer (Rogue Lawyer #1),50.11,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_206/index.html
+788,"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",41.67,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_207/index.html
+789,Rework,44.88,2,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_208/index.html
+790,Reservations for Two,11.1,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_209/index.html
+791,Red: The True Story of Red Riding Hood,28.54,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_210/index.html
+792,Ready Player One,19.07,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_211/index.html
+793,Quiet: The Power of Introverts in a World That Can't Stop Talking,43.55,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_212/index.html
+794,Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),43.63,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_213/index.html
+795,Persepolis: The Story of a Childhood (Persepolis #1-2),39.13,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_214/index.html
+796,Packing for Mars: The Curious Science of Life in the Void,56.68,2,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_215/index.html
+797,Outliers: The Story of Success,14.16,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_216/index.html
+798,Original Fake,31.45,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_217/index.html
+799,Orange Is the New Black,24.61,2,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_218/index.html
+800,One for the Money (Stephanie Plum #1),32.87,2,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_219/index.html
+801,Notes from a Small Island (Notes From a Small Island #1),40.17,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_180/index.html
+802,Night (The Night Trilogy #1),13.51,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_181/index.html
+803,Neither Here nor There: Travels in Europe,38.95,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_182/index.html
+804,Naked,31.69,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_183/index.html
+805,Morning Star (Red Rising #3),29.4,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_184/index.html
+806,"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",57.83,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_185/index.html
+807,Midnight Riot (Peter Grant/ Rivers of London - books #1),55.46,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_186/index.html
+808,Me Talk Pretty One Day,57.6,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_187/index.html
+809,Manuscript Found in Accra,34.98,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_188/index.html
+810,Lust & Wonder,11.87,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_189/index.html
+811,Lila (Gilead #3),12.47,3,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_190/index.html
+812,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_191/index.html
+813,Life Without a Recipe,59.04,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_192/index.html
+814,Life After Life,26.13,2,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_193/index.html
+815,Letter to a Christian Nation,22.2,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_194/index.html
+816,Let's Pretend This Never Happened: A Mostly True Memoir,45.11,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_195/index.html
+817,Legend (Legend #1),43.69,4,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_196/index.html
+818,"Lean In: Women, Work, and the Will to Lead",25.02,1,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_197/index.html
+819,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",55.5,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_198/index.html
+820,Lady Renegades (Rebel Belle #3),53.04,5,In stock,Non-Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_199/index.html
+821,Jurassic Park (Jurassic Park #1),44.97,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_160/index.html
+822,It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,42.38,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_161/index.html
+823,Is Everyone Hanging Out Without Me? (And Other Concerns),20.11,3,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_162/index.html
+824,Into the Wild,56.7,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_163/index.html
+825,Inferno (Robert Langdon #4),41.0,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_164/index.html
+826,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",28.85,3,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_165/index.html
+827,If I Run (If I Run #1),49.97,4,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_166/index.html
+828,I've Got Your Number,19.69,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_167/index.html
+829,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,28.88,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_168/index.html
+830,Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,33.14,3,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_169/index.html
+831,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",43.7,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_170/index.html
+832,House of Leaves,54.89,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_171/index.html
+833,Horrible Bear!,37.52,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_172/index.html
+834,Holidays on Ice,51.07,2,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_173/index.html
+835,Heir to the Sky,44.07,4,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_174/index.html
+836,Green Eggs and Ham (Beginner Books B-16),10.79,4,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_175/index.html
+837,"Grayson, Vol 3: Nemesis (Grayson #3)",42.72,1,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_176/index.html
+838,Gratitude,26.66,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_177/index.html
+839,Gone Girl,37.6,5,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_178/index.html
+840,Golden (Heart of Dread #3),42.21,4,In stock,Mystery,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_179/index.html
+841,Girl in the Blue Coat,46.83,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_140/index.html
+842,"Fruits Basket, Vol. 3 (Fruits Basket #3)",45.17,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_141/index.html
+843,"Friday Night Lights: A Town, a Team, and a Dream",51.22,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_142/index.html
+844,Fire Bound (Sea Haven/Sisters of the Heart #5),21.28,4,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_143/index.html
+845,Fifty Shades Freed (Fifty Shades #3),15.36,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_144/index.html
+846,Fellside,38.62,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_145/index.html
+847,Extreme Prey (Lucas Davenport #26),25.4,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_146/index.html
+848,Eragon (The Inheritance Cycle #1),43.87,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_147/index.html
+849,Eclipse (Twilight #3),18.74,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_148/index.html
+850,Dune (Dune #1),54.86,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_149/index.html
+851,Dracula,52.62,3,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_150/index.html
+852,Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_151/index.html
+853,Disrupted: My Misadventure in the Start-Up Bubble,15.28,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_152/index.html
+854,Dead Wake: The Last Crossing of the Lusitania,39.24,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_153/index.html
+855,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",17.81,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_154/index.html
+856,Darkfever (Fever #1),56.02,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_155/index.html
+857,Dark Places,23.9,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_156/index.html
+858,Crazy Rich Asians (Crazy Rich Asians #1),49.13,5,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_157/index.html
+859,Counting Thyme,10.62,1,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_158/index.html
+860,Cosmos,36.17,2,In stock,Romance,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_159/index.html
+861,Civilization and Its Discontents,59.95,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_120/index.html
+862,Cinder (The Lunar Chronicles #1),26.09,1,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_121/index.html
+863,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,37.35,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_122/index.html
+864,Career of Evil (Cormoran Strike #3),24.72,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_123/index.html
+865,Breaking Dawn (Twilight #4),35.28,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_124/index.html
+866,Brave Enough,51.32,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_125/index.html
+867,Boy Meets Boy,21.12,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_126/index.html
+868,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",27.35,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_127/index.html
+869,Blink: The Power of Thinking Without Thinking,21.74,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_128/index.html
+870,Black Flags: The Rise of ISIS,40.87,1,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_129/index.html
+871,"Black Butler, Vol. 1 (Black Butler #1)",49.31,1,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_130/index.html
+872,Big Little Lies,22.11,1,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_131/index.html
+873,Between Shades of Gray,20.79,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_132/index.html
+874,Best of My Love (Fool's Gold #20),27.41,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_133/index.html
+875,Beowulf,38.35,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_134/index.html
+876,Beautiful Creatures (Caster Chronicles #1),21.55,5,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_135/index.html
+877,Awkward,38.02,2,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_136/index.html
+878,Ash,22.06,4,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_137/index.html
+879,Are We There Yet?,10.66,3,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_138/index.html
+880,Are We Smart Enough to Know How Smart Animals Are?,56.58,1,In stock,Science Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_139/index.html
+881,Annie on My Mind,36.83,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_100/index.html
+882,And Then There Were None,35.01,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_101/index.html
+883,A Walk in the Woods: Rediscovering America on the Appalachian Trail,30.48,4,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_102/index.html
+884,A Visit from the Goon Squad,14.08,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_103/index.html
+885,A Storm of Swords (A Song of Ice and Fire #3),31.22,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_104/index.html
+886,A Heartbreaking Work of Staggering Genius,54.29,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_105/index.html
+887,8 Keys to Mental Health Through Exercise,31.04,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_106/index.html
+888,#GIRLBOSS,50.96,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_107/index.html
+889,"The Suffragettes (Little Black Classics, #96)",11.89,2,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_108/index.html
+890,The Sense of an Ending,31.38,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_109/index.html
+891,"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",54.81,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_110/index.html
+892,The Course of Love,16.78,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_111/index.html
+893,Sugar Rush (Offensive Line #2),24.42,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_112/index.html
+894,"Saga, Volume 2 (Saga (Collected Editions) #2)",11.75,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_113/index.html
+895,"Run, Spot, Run: The Ethics of Keeping Pets",20.02,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_114/index.html
+896,New Moon (Twilight #2),12.86,4,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_115/index.html
+897,Life,31.58,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_116/index.html
+898,Kindle Paperwhite User's Guide,34.0,3,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_117/index.html
+899,H is for Hawk,57.42,5,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_118/index.html
+900,Girl Online On Tour (Girl Online #2),53.47,1,In stock,Fantasy,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_119/index.html
+901,"Fruits Basket, Vol. 2 (Fruits Basket #2)",11.64,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_80/index.html
+902,Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),52.88,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_81/index.html
+903,"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",18.51,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_82/index.html
+904,While You Were Mine,41.32,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_83/index.html
+905,Where Lightning Strikes (Bleeding Stars #3),39.77,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_84/index.html
+906,When I'm Gone,51.96,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_85/index.html
+907,Ways of Seeing,39.51,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_86/index.html
+908,"Vampire Knight, Vol. 1 (Vampire Knight #1)",15.4,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_87/index.html
+909,Vampire Girl (Vampire Girl #1),53.82,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_88/index.html
+910,Twenty Love Poems and a Song of Despair,30.95,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_89/index.html
+911,Travels with Charley: In Search of America,57.82,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_90/index.html
+912,Three Wishes (River of Time: California #1),44.18,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_91/index.html
+913,This One Moment (Pushing Limits #1),48.71,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_92/index.html
+914,The Zombie Room,19.69,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_93/index.html
+915,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",36.52,2,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_94/index.html
+916,The Tumor,41.56,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_95/index.html
+917,The Story of Hong Gildong,43.19,4,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_96/index.html
+918,The Silent Wife,12.34,5,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_97/index.html
+919,The Silent Twin (Detective Jennifer Knight #3),36.25,3,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_98/index.html
+920,The Selfish Gene,29.45,1,In stock,Biography,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_99/index.html
+921,The Secret Healer,34.56,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_60/index.html
+922,"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",54.12,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_61/index.html
+923,The Republic,33.78,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_62/index.html
+924,The Odyssey,29.64,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_63/index.html
+925,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),57.7,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_64/index.html
+926,The Nicomachean Ethics,36.34,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_65/index.html
+927,The Name of the Wind (The Kingkiller Chronicle #1),50.59,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_66/index.html
+928,The Mirror & the Maze (The Wrath and the Dawn #1.5),29.38,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_67/index.html
+929,The Little Prince,45.42,2,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_68/index.html
+930,The Light of the Fireflies,54.43,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_69/index.html
+931,The Last Girl (The Dominion Trilogy #1),36.26,2,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_70/index.html
+932,The Iliad,16.16,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_71/index.html
+933,The Hook Up (Game On #1),36.29,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_72/index.html
+934,The Haters,27.89,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_73/index.html
+935,The Girl You Lost,12.29,5,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_74/index.html
+936,The Girl In The Ice (DCI Erika Foster #1),15.85,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_75/index.html
+937,The End of the Jesus Era (An Investigation #1),14.4,1,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_76/index.html
+938,The Edge of Reason (Bridget Jones #2),19.18,4,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_77/index.html
+939,The Complete Maus (Maus #1-2),10.64,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_78/index.html
+940,The Communist Manifesto,14.76,3,In stock,History,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_79/index.html
+941,The Bhagavad Gita,57.49,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_40/index.html
+942,The Bette Davis Club,30.66,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_41/index.html
+943,The Art of Not Breathing,40.83,4,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_42/index.html
+944,Taking Shots (Assassins #1),18.88,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_43/index.html
+945,Starlark,25.83,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_44/index.html
+946,"Skip Beat!, Vol. 01 (Skip Beat! #1)",42.12,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_45/index.html
+947,Sister Sable (The Mad Queen #1),13.33,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_46/index.html
+948,Shatter Me (Shatter Me #1),42.4,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_47/index.html
+949,Shameless,58.35,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_48/index.html
+950,Shadow Rites (Jane Yellowrock #10),21.72,4,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_49/index.html
+951,Settling the Score (The Summer Games #1),44.91,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_50/index.html
+952,Sense and Sensibility,37.46,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_51/index.html
+953,"Saga, Volume 1 (Saga (Collected Editions) #1)",28.48,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_52/index.html
+954,"Rhythm, Chord & Malykhin",28.34,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_53/index.html
+955,"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",46.96,5,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_54/index.html
+956,Paradise Lost (Paradise #1),24.96,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_55/index.html
+957,"Paper Girls, Vol. 1 (Paper Girls #1-5)",21.71,4,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_56/index.html
+958,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",29.87,3,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_57/index.html
+959,Origins (Alphas 0.5),28.99,1,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_58/index.html
+960,One Second (Seven #7),52.94,2,In stock,Travel,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_59/index.html
+961,On the Road (Duluoz Legend),32.36,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_20/index.html
+962,Old Records Never Die: One Man's Quest for His Vinyl and His Past,55.66,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_21/index.html
+963,Off Sides (Off #1),39.45,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_22/index.html
+964,Of Mice and Men,47.11,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_23/index.html
+965,Myriad (Prentor #1),58.75,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_24/index.html
+966,My Perfect Mistake (Over the Top #1),38.92,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_25/index.html
+967,"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",39.39,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_26/index.html
+968,Meditations,25.89,2,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_27/index.html
+969,Matilda,28.34,1,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_28/index.html
+970,Lost Among the Living,27.7,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_29/index.html
+971,Lord of the Flies,24.89,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_30/index.html
+972,Listen to Me (Fusion #1),58.99,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_31/index.html
+973,Kitchens of the Great Midwest,57.2,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_32/index.html
+974,Jane Eyre,38.43,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_33/index.html
+975,Imperfect Harmony,34.74,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_34/index.html
+976,Icing (Aces Hockey #2),40.44,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_35/index.html
+977,"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",45.24,3,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_36/index.html
+978,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_37/index.html
+979,"Giant Days, Vol. 1 (Giant Days #1-4)",56.76,4,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_38/index.html
+980,"Fruits Basket, Vol. 1 (Fruits Basket #1)",40.28,5,In stock,Cooking,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_39/index.html
+981,Frankenstein,38.0,2,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_0/index.html
+982,Forever Rockers (The Rocker #12),28.8,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_1/index.html
+983,Fighting Fate (Fighting #6),39.24,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_2/index.html
+984,Emma,32.93,2,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_3/index.html
+985,"Eat, Pray, Love",51.32,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_4/index.html
+986,Deep Under (Walker Security #1),47.09,5,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_5/index.html
+987,Choosing Our Religion: The Spiritual Lives of America's Nones,28.42,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_6/index.html
+988,Charlie and the Chocolate Factory (Charlie Bucket #1),22.85,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_7/index.html
+989,Charity's Cross (Charles Towne Belles #4),41.24,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_8/index.html
+990,Bright Lines,39.07,5,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_9/index.html
+991,Bridget Jones's Diary (Bridget Jones #1),29.82,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_10/index.html
+992,Bounty (Colorado Mountain #7),37.26,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_11/index.html
+993,Blood Defense (Samantha Brinkman #1),20.3,3,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_12/index.html
+994,"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",34.65,5,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_13/index.html
+995,Beyond Good and Evil,43.38,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_14/index.html
+996,Alice in Wonderland (Alice's Adventures in Wonderland #1),55.53,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_15/index.html
+997,"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",57.06,4,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_16/index.html
+998,A Spy's Devotion (The Regency Spies of London #1),16.97,5,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_17/index.html
+999,1st to Die (Women's Murder Club #1),53.98,1,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_18/index.html
+1000,"1,000 Places to See Before You Die",26.08,5,In stock,Fiction,https://books.toscrape.com/media/cache/example.jpg,https://books.toscrape.com/catalogue/book_19/index.html
