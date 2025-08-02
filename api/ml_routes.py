@@ -6,7 +6,7 @@ from flask_restx import Namespace, Resource, fields
 from flask import request
 from .models import BookRepository
 from .ml_pipeline import MLPipeline
-from .auth import ml_permission_required, token_required
+# Autenticação removida - API pública
 
 # Namespace para ML
 ml_ns = Namespace('api/v1/ml', description='Endpoints para Machine Learning')
@@ -60,7 +60,7 @@ def get_ml_pipeline():
 class MLFeatures(Resource):
     @ml_ns.marshal_with(features_response_model)
     @ml_ns.doc('get_ml_features')
-    @ml_permission_required
+    # @ml_permission_required - removido
     def get(self):
         """Retorna dados formatados para features de ML"""
         try:
@@ -79,7 +79,7 @@ class MLFeatures(Resource):
 class MLTrainingData(Resource):
     @ml_ns.marshal_with(training_response_model)
     @ml_ns.doc('get_training_data')
-    @ml_permission_required
+    # @ml_permission_required - removido
     def get(self):
         """Retorna dataset preparado para treinamento"""
         try:
@@ -99,7 +99,7 @@ class MLTrainingData(Resource):
 @ml_ns.route('/train')
 class MLTrain(Resource):
     @ml_ns.doc('train_model')
-    @ml_permission_required
+    # @ml_permission_required - removido
     def post(self):
         """Treina um modelo de exemplo com os dados"""
         try:
@@ -122,7 +122,7 @@ class MLPredictions(Resource):
     @ml_ns.expect(prediction_input_model)
     @ml_ns.marshal_with(prediction_response_model)
     @ml_ns.doc('make_predictions')
-    @ml_permission_required
+    # @ml_permission_required - removido
     def post(self):
         """Faz predições usando modelo treinado"""
         try:
@@ -150,7 +150,7 @@ class MLPredictions(Resource):
 @ml_ns.route('/model-info')
 class MLModelInfo(Resource):
     @ml_ns.doc('get_model_info')
-    @ml_permission_required
+    # @ml_permission_required - removido
     def get(self):
         """Retorna informações sobre o modelo atual"""
         try:
@@ -165,7 +165,7 @@ class MLModelInfo(Resource):
 @ml_ns.route('/example-prediction')
 class MLExamplePrediction(Resource):
     @ml_ns.doc('example_prediction')
-    @token_required()
+    # @token_required() - removido
     def get(self):
         """Exemplo de como usar o endpoint de predições"""
         example_input = {
@@ -201,7 +201,7 @@ class MLExamplePrediction(Resource):
 @ml_ns.route('/reset')
 class MLReset(Resource):
     @ml_ns.doc('reset_pipeline')
-    @ml_permission_required
+    # @ml_permission_required - removido
     def post(self):
         """Reseta o pipeline ML (recarrega dados)"""
         try:

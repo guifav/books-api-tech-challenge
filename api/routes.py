@@ -28,11 +28,11 @@ ns_stats = api.namespace('api/v1/stats', description='Estatísticas dos dados')
 ns_health = api.namespace('api/v1/health', description='Status da API')
 
 # Importa e adiciona novos namespaces
-from .auth_routes import auth_ns
+# from .auth_routes import auth_ns - removido
 from .ml_routes import ml_ns
 from .scraping_routes import scraping_ns
 
-api.add_namespace(auth_ns)
+# api.add_namespace(auth_ns) - removido
 api.add_namespace(ml_ns)
 api.add_namespace(scraping_ns)
 

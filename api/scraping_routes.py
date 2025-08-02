@@ -4,7 +4,7 @@ Rotas para controle de scraping (protegidas por autenticação)
 
 from flask_restx import Namespace, Resource, fields
 from flask import request
-from .auth import admin_required, token_required
+# from .auth import admin_required, token_required - removido
 import subprocess
 import os
 import threading
@@ -63,7 +63,7 @@ def run_scraping_background():
 @scraping_ns.route('/trigger')
 class ScrapingTrigger(Resource):
     @scraping_ns.doc('trigger_scraping')
-    @admin_required
+    # @admin_required - removido
     def post(self):
         """Inicia processo de web scraping (apenas admin)"""
         global scraping_status
@@ -97,7 +97,7 @@ class ScrapingTrigger(Resource):
 @scraping_ns.route('/status')
 class ScrapingStatus(Resource):
     @scraping_ns.doc('scraping_status')
-    @token_required()
+    # @token_required() - removido
     def get(self):
         """Verifica status do scraping"""
         global scraping_status
@@ -111,7 +111,7 @@ class ScrapingStatus(Resource):
 @scraping_ns.route('/history')
 class ScrapingHistory(Resource):
     @scraping_ns.doc('scraping_history')
-    @token_required()
+    # @token_required() - removido
     def get(self):
         """Histórico de execuções de scraping"""
         # Em uma implementação real, isso viria de um banco de dados
@@ -134,7 +134,7 @@ class ScrapingHistory(Resource):
 @scraping_ns.route('/data-info')
 class ScrapingDataInfo(Resource):
     @scraping_ns.doc('data_info')
-    @token_required()
+    # @token_required() - removido
     def get(self):
         """Informações sobre os dados coletados"""
         try:
@@ -179,7 +179,7 @@ class ScrapingDataInfo(Resource):
 @scraping_ns.route('/config')
 class ScrapingConfig(Resource):
     @scraping_ns.doc('scraping_config')
-    @admin_required
+    # @admin_required - removido
     def get(self):
         """Configurações do scraping"""
         return {
@@ -195,7 +195,7 @@ class ScrapingConfig(Resource):
         }, 200
     
     @scraping_ns.doc('update_scraping_config')
-    @admin_required
+    # @admin_required - removido
     def put(self):
         """Atualiza configurações do scraping (placeholder)"""
         # Em uma implementação real, permitiria configurar parâmetros
