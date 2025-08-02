@@ -3,10 +3,17 @@
   "builds": [
     {
       "src": "app.py",
-      "use": "@vercel/python"
+      "use": "@vercel/python",
+      "config": {
+        "maxLambdaSize": "50mb"
+      }
     }
   ],
   "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "app.py"
+    },
     {
       "src": "/(.*)",
       "dest": "app.py"
@@ -14,6 +21,15 @@
   ],
   "env": {
     "FLASK_ENV": "production",
-    "FLASK_DEBUG": "false"
+    "FLASK_DEBUG": "false",
+    "API_HOST": "0.0.0.0",
+    "PORT": "5005",
+    "JWT_SECRET": "@jwt_secret",
+    "PYTHONPATH": "/var/task"
+  },
+  "functions": {
+    "app.py": {
+      "maxDuration": 30
+    }
   }
 }

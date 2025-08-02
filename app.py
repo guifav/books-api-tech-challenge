@@ -2,22 +2,33 @@
 """
 Aplicação principal da Books API
 Tech Challenge - Fase 1 - Machine Learning Engineering
+Optimized for Vercel serverless deployment
 """
 
 import os
 from dotenv import load_dotenv
 
 # Carrega variáveis de ambiente
-load_dotenv()
+if os.path.exists('.env.production'):
+    load_dotenv('.env.production')
+else:
+    load_dotenv()
+
+# Set production defaults
+os.environ.setdefault('FLASK_ENV', 'production')
+os.environ.setdefault('FLASK_DEBUG', 'False')
 
 # Importa a aplicação Flask
 from api.routes import app
+
+# For Vercel compatibility
+handler = app
 
 if __name__ == '__main__':
     # Configurações da aplicação
     port = int(os.environ.get('PORT', 5005))
     host = os.environ.get('API_HOST', '0.0.0.0')
-    debug = os.environ.get('FLASK_DEBUG', 'True').lower() == 'true'
+    debug = os.environ.get('FLASK_DEBUG', 'False').lower() == 'true'
     
     print(f"🚀 Iniciando Books API...")
     print(f"📍 Host: {host}")

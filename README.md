@@ -580,6 +580,51 @@ A aplicação gera logs estruturados para:
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
 
+## 🚀 Deploy no Vercel
+
+### Configuração para Produção
+
+Este projeto está otimizado para deploy no Vercel com as seguintes configurações:
+
+#### 1. Arquivos de Configuração
+- `vercel.json`: Configuração do Vercel com otimizações para serverless
+- `runtime.txt`: Especifica Python 3.11
+- `.vercelignore`: Exclui arquivos desnecessários do deploy
+- `requirements-prod.txt`: Dependências otimizadas para produção
+
+#### 2. Variáveis de Ambiente no Vercel
+
+Configure as seguintes variáveis no painel do Vercel:
+
+```bash
+FLASK_ENV=production
+FLASK_DEBUG=false
+JWT_SECRET=your-super-secret-jwt-key-here
+API_HOST=0.0.0.0
+PORT=5005
+PYTHONPATH=/var/task
+```
+
+#### 3. Deploy Automático
+
+1. **Conecte o repositório ao Vercel**
+2. **Configure as variáveis de ambiente**
+3. **Deploy automático a cada push na branch main**
+
+#### 4. Endpoints de Produção
+
+Após o deploy, a API estará disponível em:
+- **Base URL**: `https://your-app.vercel.app`
+- **Documentação**: `https://your-app.vercel.app/api/docs`
+- **Health Check**: `https://your-app.vercel.app/api/v1/health`
+
+### Otimizações para Serverless
+
+- **Cold Start**: Otimizado para inicialização rápida
+- **Memory Usage**: Configurado para uso eficiente de memória
+- **Timeout**: Configurado para 30 segundos máximo
+- **Bundle Size**: Otimizado com `.vercelignore`
+
 ## 🆘 Suporte
 
 Para dúvidas ou problemas:
